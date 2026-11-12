@@ -12,9 +12,11 @@ Kho lưu trữ các skill (kỹ năng) dùng với Claude.
 | [giang-de-hieu](skills-tu-tao/giang-de-hieu) | Giải thích một vấn đề cho Bee hiểu thật (tài liệu, quy trình, số liệu, công cụ, code, kiến thức dinh dưỡng…): ngắn trước, sâu dần theo nhịp. Dùng khi nói: dạy t |
 | [hoi-dong-co-van](skills-tu-tao/hoi-dong-co-van) | Họp hội đồng cố vấn ảo (Tài chính, Marketing, Bán hàng, Vận hành, Nhân sự, Pháp lý…) để phân tích một quyết định lớn cho Lành hoặc NERCI rồi chốt hành động. Dùn |
 | [huong-dan-dung-tro-ly-ai](skills-tu-tao/huong-dan-dung-tro-ly-ai) | Huấn luyện Bee dùng Claude hiệu quả: chọn đúng chế độ, viết prompt 4 bước, xây thư viện prompt, dùng skill/plugin/kết nối (Canva, Gmail, Drive), quản lý bộ nhớ, |
+| [lam-viec-theo-dac-ta](skills-tu-tao/lam-viec-theo-dac-ta) | Dùng cho việc nhiều bước (kế hoạch, dự án, chiến dịch, quy trình mới, mở chi nhánh, Teabreak…): đi qua Đặc tả → Làm rõ → Kế hoạch → Đầu việc → Rà soát → Thực hi |
 | [phan-loai-hop-thu](skills-tu-tao/phan-loai-hop-thu) | Quét Gmail, phân loại thư theo 3 mức khẩn và soạn sẵn thư trả lời cho Bee (NERCI + Lành), chỉ gửi khi Bee duyệt. Dùng khi nói: dọn hộp thư, phân loại email, /tr |
 | [quan-ly-cong-viec](skills-tu-tao/quan-ly-cong-viec) | Quản lý mục tiêu quý và danh sách việc cần làm của Bee trên Google Sheet, nhắc việc trễ hạn và bắt tay làm giúp. Dùng khi nói: việc cần làm, thêm việc, xong việ |
 | [tro-ly-chanh-van-phong](skills-tu-tao/tro-ly-chanh-van-phong) | Bản tin buổi sáng, cập nhật lịch giữa ngày và tổng kết cuối ngày cho Bee (Thư ký CEO NERCI + quản lý Lành). Dùng khi nói: chào buổi sáng, gm, bản tin sáng, /cos |
+| [video-shotcraft](skills-tu-tao/video-shotcraft) | Làm video quảng bá/clip có chuyển động điện ảnh bằng Remotion theo bộ video-shotcraft (124 thẻ hiệu ứng, mẫu Ink Press, khớp nhạc, âm thanh). Dùng khi bạn muốn  |
 | [xuong-phat-minh-san-pham](skills-tu-tao/xuong-phat-minh-san-pham) | Nghĩ và kiểm định ý tưởng sản phẩm/dịch vụ mới cho Lành (món mới, gói tháng, hộp quà, Teabreak, chi nhánh…) qua 4 bước và 25 mô hình tư duy: nhu cầu, sáng tạo,  |
 
 ## Skill có sẵn (Anthropic)
@@ -39,4 +41,4 @@ Kho lưu trữ các skill (kỹ năng) dùng với Claude.
 | [web-artifacts-builder](skills-co-san/web-artifacts-builder) | Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for |
 | [xlsx](skills-co-san/xlsx) | Use this skill any time a spreadsheet file is the primary input or output. This means any task where the user wants to: open, read, edit, or fix an existing .xl |
 
-Cập nhật: 10/11/2026
+Cập nhật: 12/11/2026
