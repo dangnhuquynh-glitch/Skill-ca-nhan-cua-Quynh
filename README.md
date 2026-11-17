@@ -41,4 +41,4 @@ Kho lưu trữ các skill (kỹ năng) dùng với Claude.
 | [web-artifacts-builder](skills-co-san/web-artifacts-builder) | Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for |
 | [xlsx](skills-co-san/xlsx) | Use this skill any time a spreadsheet file is the primary input or output. This means any task where the user wants to: open, read, edit, or fix an existing .xl |
 
-Cập nhật: 12/11/2026
+Cập nhật: 17/11/2026
